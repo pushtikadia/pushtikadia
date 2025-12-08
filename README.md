@@ -1,4 +1,4 @@
-## Hey, Dharm Patel This Side
+## Hey, Pushti This Side
  🚀 BTech Computer Science & Engineering Student  
   <br>
   🌱 Curious mind exploring all paths in tech — building, learning, and improving every day  
