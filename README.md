@@ -40,11 +40,3 @@
 [![](https://visitcount.itsvg.in/api?id=pushtikadia&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-## 📬 **Connect With Me**
-
-<p>
-  <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"></a>
-</p>
