@@ -1,10 +1,7 @@
 ## Hey, Pushti This Side
- 🚀 BTech Computer Science & Engineering Student  
-  <br>
-  🌱 Curious mind exploring all paths in tech — building, learning, and improving every day  
-  <br>
-  💡 I love creating projects, solving problems, and experimenting with new ideas  
-</p>
+- 🚀 BTech Computer Science & Engineering Student <br>
+- 🌱 Curious mind exploring all paths in tech — building, learning, and improving every day <br>
+- 💡 I love creating projects, solving problems, and experimenting with new ideas  
 
 ## 💫 About Me:
 - 🎓 BTech CSE Student  
