@@ -40,4 +40,21 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pushtikadia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ **Profile Badges**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-BTech%20CSE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Every%20Day-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focused%20On-Growth-purple?style=for-the-badge" />
+</p>
+
+---
+
+## 📬 **Connect With Me**
+
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"></a>
+</p>
