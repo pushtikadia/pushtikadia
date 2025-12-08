@@ -1,6 +1,6 @@
 ## Hey, Pushti This Side!
-<p>
-- 🌱 Curious mind exploring all paths in tech — building, learning, and improving every day
+-
+<p> 🌱 Curious mind exploring all paths in tech — building, learning, and improving every day
   <br>
 - 💡 I love creating projects, solving problems, and experimenting with new ideas  </p>
 
