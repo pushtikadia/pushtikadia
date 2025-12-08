@@ -10,8 +10,7 @@
 - 🎓 BTech CSE Student  
 - 💻 Interested in Web, Backend, AI, and Open-Source  
 - 🔭 Always working on something new  
-- 📚 Learning new skills every day  
-- 🎯 Goal : Become a strong problem solver & build real-world impactful projects
+- 📚 Learning new skills every day
 - 😀 Currently Learning : Python And It's Libraries Like Pandas,Numpy,Matplotlib,Django
 - 🤝 Open for collaborations and exciting ideas
 - 📩 My Email : pushtikadia@gmail.com
