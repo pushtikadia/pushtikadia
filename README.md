@@ -1,6 +1,7 @@
 ## Hey, Pushti This Side!
-- 🌱 Curious mind exploring all paths in tech — building, learning, and improving every day <br>
-- 💡 I love creating projects, solving problems, and experimenting with new ideas  
+- 🌱 Curious mind exploring all paths in tech — building, learning, and improving every day
+  <br>
+- 💡 I love creating projects, solving problems, and experimenting with new ideas  </p>
 
 ## 💫 About Me:
 - 🎓 BTech Computer Science & Engineering Student
