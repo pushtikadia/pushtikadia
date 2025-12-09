@@ -1,15 +1,12 @@
 ## Hey, Pushti This Side!
 - 🌱 Curious mind exploring all paths in tech — building, learning, and improving every day
   <br>
-- 💡 I love creating projects, solving problems, and experimenting with new ideas 
 
-## 💫 About Me:
-- 🎓 BTech Computer Science & Engineering Student
-- 💻 Interested in Web, Backend, AI, and Open-Source  
+## 📬 About Me
+- 🎓 BTech Computer Science & Engineering Student  
 - 🔭 Always working on something new  
 - 📚 Learning new skills every day
-- 😀 Currently Learning : Python And It's Libraries Like Pandas,Numpy,Matplotlib,Django
-- 🤝 Open for collaborations and exciting ideas
+- 🛠️ Currently Learning : Python And It's Libraries Like Pandas, Numpy, Matplotlib, Django
 - 📩 My Email : pushtikadia@gmail.com
 
 
