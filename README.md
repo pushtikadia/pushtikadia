@@ -1,4 +1,4 @@
-## Hey, I'm Pushti!
+## Hey, I'm Pushti
 - 🌱 Curious mind exploring all paths in tech — building, learning, and improving every day
   <br>
 
