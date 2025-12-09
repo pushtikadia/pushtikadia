@@ -1,5 +1,5 @@
 # Hey, I'm Pushti
-#- 🌱 Curious mind exploring all paths in tech — building, learning, and improving every day
+- 🌱 Curious mind exploring all paths in tech — building, learning, and improving every day
   <br>
 
 # 📬 About Me
