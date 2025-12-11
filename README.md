@@ -11,7 +11,7 @@
 
 -🐍 Currently learning Python and its libraries — Pandas, NumPy, Matplotlib, Django
 
-- 📧 Email: pushtikadia@gmail.com
+-📧 Email: pushtikadia@gmail.com
 
 
 
