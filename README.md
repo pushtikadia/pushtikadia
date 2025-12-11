@@ -4,10 +4,10 @@
 
 # 📬 About Me
 -🎓 B.Tech Computer Science & Engineering Student 
--🧩 Consistently Working on New Projects and Ideas  
-- 📚 Learning new skills every day
-- 🛠️ Currently Learning : Python And It's Libraries Like Pandas, Numpy, Matplotlib, Django
-- 📩 My Email : pushtikadia@gmail.com
+-🧩 Consistently Working On New Projects And Ideas  
+-🚀 Passionate About Learning New Skills And Growing Daily
+-🐍 Currently learning Python and its libraries — Pandas, NumPy, Matplotlib, Django
+- 📧 Email: pushtikadia@gmail.com
 
 
 
