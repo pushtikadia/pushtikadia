@@ -29,41 +29,43 @@
 # 🧰 Tools & Technologies
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=php" />
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=c" title="C" />
+<img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML" />
+<img src="https://skillicons.dev/icons?i=css" title="CSS" />
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=python" title="Python" />
+<img src="https://skillicons.dev/icons?i=java" title="Java" />
+<img src="https://skillicons.dev/icons?i=php" title="PHP" />
 
-  <!-- Tools / Environments -->
-  <img src="https://skillicons.dev/icons?i=anaconda" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=jquery" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="Apache"/>
+<!-- Tools / Environments -->
+<img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
+<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+<img src="https://cdn.simpleicons.org/apache/D22128" height="48" alt="Apache" title="Apache Server" />
 
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
 
-  <!-- Design / Tools -->
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva"/>
-  <img src="https://skillicons.dev/icons?i=figma" />
+<!-- Design / Tools -->
+<img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva" title="Canva" />
+<img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 
-  <!-- Python Libraries -->
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" />
+<!-- Python Libraries -->
+<img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" title="Pandas" />
+<img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy" title="NumPy" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" title="Matplotlib" />
 
-  <!-- Version Control / Networking -->
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" />
+<!-- Version Control / Networking -->
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=git" title="Git" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco Networking" />
+
 </p>
 
 # 📊 GitHub Stats
