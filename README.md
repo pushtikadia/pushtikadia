@@ -9,7 +9,7 @@
 
 -🚀 Passionate About Learning New Skills And Growing Daily
 
--🐍 Currently learning Python and its libraries — Pandas, NumPy, Matplotlib, Django
+-🐍 Currently larning Python and its libraries — Pandas, NumPy, Matplotlib, Django
 
 -📧 Email: pushtikadia@gmail.com
 
