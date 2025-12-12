@@ -2,8 +2,7 @@
 - 💻 Tech enthusiast exploring diverse domains — learning, building, and improving every day.
   <br>
 
-# 📬 About Me
-## About Me
+## 📬 About Me
 
 - 🎓 B.Tech Computer Science & Engineering Student
   
@@ -16,7 +15,7 @@
 - 📬 Email: pushtikadia@gmail.com
 
 
-# 🌍 Social Connects
+## 🌍 Social Connects
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pushti-kadia-2bb4a5348/" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -31,7 +30,7 @@
 </a>
 
 
-# 🧰 Skills & Technologies
+## 🧰 Skills & Technologies
 
 | Category | Tools |
 |---------|-------|
