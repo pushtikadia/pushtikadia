@@ -12,7 +12,7 @@
  
 - 🐍 Currently Learning Python And Its Ecosystem — Pandas, NumPy, Matplotlib, Django
  
-- 📬 Email: pushtikadia@gmail.com
+- 📬 Email : pushtikadia@gmail.com
 
 
 ## 🌍 Social Connects
