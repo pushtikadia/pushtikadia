@@ -1,5 +1,5 @@
 # Hey, I'm Pushti
-- 💻 Tech Enthusiast Exploring Diverse Domains — Learning, Building, And Improving Every Day.
+- 💻 Tech Enthusiast Exploring Diverse Domains — Learning, Building, And Improving Every Day
   <br>
 
 ## 📬 About Me
