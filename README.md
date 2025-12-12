@@ -32,9 +32,6 @@
 
 ## 🧰 Skills & Technologies
 
-## 🛠️ Tools & Technologies  
-## 🛠️ Tools & Technologies  
-
 <p>
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
