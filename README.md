@@ -33,27 +33,31 @@
 ## 🧰 Skills & Technologies
 
 ## 🛠️ Tools & Technologies  
+## 🛠️ Tools & Technologies  
 
-<!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=c" title="C" />
-<img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-<img src="https://skillicons.dev/icons?i=html" title="HTML" />
-<img src="https://skillicons.dev/icons?i=css" title="CSS" />
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-<img src="https://skillicons.dev/icons?i=python" title="Python" />
-<img src="https://skillicons.dev/icons?i=java" title="Java" />
-<img src="https://skillicons.dev/icons?i=php" title="PHP" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  
+  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" title="Apache Server" />
+  
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+  
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height=
 
-<!-- Tools / Environments -->
-<img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
-<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-<img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
-<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-<img src="https://cdn.simpleicons.org/apache/D22128" height="48" title="Apache Server" />
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-<img src="https://s
 
 
 ## 📊 GitHub Stats
