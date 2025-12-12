@@ -31,6 +31,7 @@
 
 
 ## 🧰 Skills & Technologies
+## 🛠️ Tools & Technologies  
 
 <p>
   <img src="https://skillicons.dev/icons?i=c" title="C" />
@@ -53,7 +54,18 @@
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
   
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height=
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" title="Canva" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" title="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" title="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" title="Matplotlib" />
+  
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="45" title="Cisco Networking" />
+</p>
+
 
 
 
