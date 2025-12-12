@@ -31,7 +31,6 @@
 
 
 ## 🧰 Skills & Technologies
-## 🛠️ Tools & Technologies  
 
 <p>
   <img src="https://skillicons.dev/icons?i=c" title="C" />
@@ -65,8 +64,6 @@
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="45" title="Cisco Networking" />
 </p>
-
-
 
 
 ## 📊 GitHub Stats
