@@ -1,19 +1,19 @@
 # Hey, I'm Pushti
-- 💻 Tech enthusiast exploring diverse domains — learning, building, and improving every day.
+-💻 Tech enthusiast exploring diverse domains — learning, building, and improving every day.
   <br>
 
 # 📬 About Me
 ## About Me
 
-- 🎓 B.Tech Computer Science & Engineering Student
+-🎓 B.Tech Computer Science & Engineering Student
   
-- 💡 Continuously Exploring New Technologies And Building Meaningful Projects
+-💡 Continuously Exploring New Technologies And Building Meaningful Projects
     
-- 🚀 Passionate About Expanding My Skills And Growing As A Developer
+-🚀 Passionate About Expanding My Skills And Growing As A Developer
  
-- 🐍 Currently Learning Python And Its Ecosystem — Pandas, NumPy, Matplotlib, Django
+-🐍 Currently Learning Python And Its Ecosystem — Pandas, NumPy, Matplotlib, Django
  
-- 📬 Email: pushtikadia@gmail.com
+-📬 Email: pushtikadia@gmail.com
 
 
 # 🌍 Social Connects
