@@ -8,22 +8,6 @@
 
 <br/>
 
-<h2 align="left">📬 About Me</h2>
-<table align="left" width="100%" border="0">
-  <tr>
-    <td>
-      <ul>
-        <li>🎓 <b>B.Tech Computer Science & Engineering Student</b></li>
-        <li>💡 Continuously Exploring New Technologies And Building Meaningful Projects</li>
-        <li>🚀 Passionate About Expanding My Skills And Growing As A Developer</li>
-        <li>🐍 Currently Learning <b>Python Ecosystem</b> — Pandas, NumPy, Matplotlib, Django</li>
-        <li>📬 <b>Email:</b> <a href="mailto:pushtikadia@gmail.com">pushtikadia@gmail.com</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<br clear="all"/>
-
 <h2 align="left">🌍 Social Connects</h2>
 <p align="left">
   <a href="https://linkedin.com/in/pushti-kadia-2bb4a5348/" title="LinkedIn">
@@ -44,6 +28,22 @@
 </p>
 
 <br/>
+
+<h2 align="left">📬 About Me</h2>
+<table align="left" width="100%" border="0">
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 <b>B.Tech Computer Science & Engineering Student</b></li>
+        <li>💡 Continuously Exploring New Technologies And Building Meaningful Projects</li>
+        <li>🚀 Passionate About Expanding My Skills And Growing As A Developer</li>
+        <li>🐍 Currently Learning <b>Python Ecosystem</b> — Pandas, NumPy, Matplotlib, Django</li>
+        <li>📬 <b>Email:</b> <a href="mailto:pushtikadia@gmail.com">pushtikadia@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<br clear="all"/>
 
 
 <h2 align="left">🧰 Skills & Technologies</h2>
