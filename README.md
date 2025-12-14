@@ -9,7 +9,6 @@
 
 <br/>
 
-<h2 align="left">🌍 Social Connects</h2>
 <p align="left">
   <a href="https://linkedin.com/in/pushti-kadia-2bb4a5348/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
