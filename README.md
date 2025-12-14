@@ -7,20 +7,17 @@
 </div>
 
 <h2 align="left">📬 About Me</h2>
-<table align="left" width="100%" border="0">
-  <tr>
-    <td>
-      <ul>
-        <li>🎓 <b>B.Tech Computer Science & Engineering Student</b></li>
-        <li>💡 Continuously Exploring New Technologies And Building Meaningful Projects</li>
-        <li>🚀 Passionate About Expanding My Skills And Growing As A Developer</li>
-        <li>🐍 Currently Learning <b>Python Ecosystem</b> — Pandas, NumPy, Matplotlib, Django</li>
-        <li>📬 <b>Email:</b> <a href="mailto:pushtikadia@gmail.com">pushtikadia@gmail.com</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<br clear="all"/>
+## 📬 About Me
+
+- 🎓 B.Tech Computer Science & Engineering Student
+  
+- 💡 Continuously Exploring New Technologies And Building Meaningful Projects
+    
+- 🚀 Passionate About Expanding My Skills And Growing As A Developer
+ 
+- 🐍 Currently Learning Python And Its Ecosystem — Pandas, NumPy, Matplotlib, Django
+ 
+- 📬 Email : pushtikadia@gmail.com
 
 
 ## 🌍 Social Connects
