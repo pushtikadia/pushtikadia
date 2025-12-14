@@ -30,7 +30,7 @@
 </a>
 
 
-<h2 align="left">🧰 Skills & Technologies</h2>
+## 🧰 Skills & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=c" title="C" />
