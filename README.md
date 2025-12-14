@@ -48,16 +48,40 @@
 <br/>
 
 <h2 align="left">🧰 Skills & Technologies</h2>
-<h2 align="left">🧰 Skills & Technologies</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,html,css,anaconda,bootstrap,jquery,tailwind,mysql,mongodb,postgres,sqlite,figma,github,git" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="Apache"/>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" alt="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="40" alt="Cisco"/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  
+  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" title="Apache Server" />
+  
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+  
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" title="Canva" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" title="Pandas" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" title="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" title="Matplotlib" />
+  
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="45" title="Cisco Networking" />
 </p>
+
 
 <br/>
 
