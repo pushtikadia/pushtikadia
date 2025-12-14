@@ -2,7 +2,7 @@
 - 💻 Tech Enthusiast Exploring Diverse Domains — Learning, Building, And Improving Every Day
   <br>
 
-<h2 align="left">📬 About Me</h2>
+## 📬 About Me
 
 - 🎓 B.Tech Computer Science & Engineering Student
   
