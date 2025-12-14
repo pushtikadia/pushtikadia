@@ -84,7 +84,6 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushtikadia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&align=left" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushtikadia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&align=left" height="150" alt="languages graph" />
 </div>
 <br clear="all"/>
