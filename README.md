@@ -45,40 +45,18 @@
 
 <br/>
 
-<h2 align="left">🧰 Skills & Technologies</h2>
+<br/>
 
-<table align="left">
-  <tr>
-    <td valign="top" width="120"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,html,css" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Data Science</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=anaconda,pandas" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" alt="Matplotlib"/>
-      <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Web & DB</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind,mysql,mongodb,postgres,sqlite" />
-      <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="Apache"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=github,git,figma" />
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="40" alt="Cisco"/>
-    </td>
-  </tr>
-</table>
-<br clear="all"/>
+<h2 align="left">🧰 Skills & Technologies</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,html,css,anaconda,bootstrap,jquery,tailwind,mysql,mongodb,postgres,sqlite,figma,github,git" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="Apache"/>
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" alt="Matplotlib"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="40" alt="Cisco"/>
+</p>
 
 <br/>
 
