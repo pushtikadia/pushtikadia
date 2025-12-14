@@ -1,6 +1,7 @@
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&width=500&lines=Hey!+I'm+Pushti;Exploring+The+Endless+World+Of+Tech;Learning,+Building,+Improving" alt="Typing SVG" />
-</div>
+# Hey, I'm Pushti
+- 💻 Tech Enthusiast Exploring Diverse Domains — Learning, Building, And Improving Every Day
+  <br>
+
 
 <div align="left">
   <h3>💻 Tech Enthusiast Exploring Diverse Domains</h3>
