@@ -2,7 +2,6 @@
 - 💻 Tech Enthusiast Exploring Diverse Domains — Learning, Building, And Improving Every Day
   <br>
 
-
 <div align="left">
   <h3>💻 Tech Enthusiast Exploring Diverse Domains</h3>
 </div>
@@ -44,7 +43,6 @@
   </tr>
 </table>
 <br clear="all"/>
-
 
 <h2 align="left">🧰 Skills & Technologies</h2>
 
