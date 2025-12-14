@@ -2,10 +2,6 @@
 - 💻 Tech Enthusiast Exploring Diverse Domains — Learning, Building, And Improving Every Day
   <br>
 
-<div align="left">
-  <h3>💻 Tech Enthusiast Exploring Diverse Domains</h3>
-</div>
-
 <h2 align="left">📬 About Me</h2>
 ## 📬 About Me
 
