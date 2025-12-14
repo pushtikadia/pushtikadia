@@ -22,6 +22,22 @@
 </table>
 <br clear="all"/>
 
+
+## 🌍 Social Connects
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pushti-kadia-2bb4a5348/" title="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://stackoverflow.com/users/32018409/pushti-kadia" title="StackOverflow">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
+<a href="https://leetcode.com/u/pushtikadia/" title="LeetCode">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pushtikadia@gmail.com" title="Gmail">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+
 <h2 align="left">🧰 Skills & Technologies</h2>
 
 <p>
