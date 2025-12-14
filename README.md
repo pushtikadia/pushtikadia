@@ -48,6 +48,7 @@
 <br/>
 
 <h2 align="left">🧰 Skills & Technologies</h2>
+<h2 align="left">🧰 Skills & Technologies</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,html,css,anaconda,bootstrap,jquery,tailwind,mysql,mongodb,postgres,sqlite,figma,github,git" />
   <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="Apache"/>
