@@ -45,7 +45,6 @@
 
 <br/>
 
-<br/>
 
 <h2 align="left">🧰 Skills & Technologies</h2>
 
