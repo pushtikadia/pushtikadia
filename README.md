@@ -66,7 +66,7 @@
 </p>
 
 
-## 📊 GitHub Stats<h2 align="left">📊 GitHub Stats</h2>
+## 📊 GitHub Stats</h2>
 <p>
   <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Pushti Kadia&theme=gotham&hide_border=true&v=STAT_TIMESTAMP" />
 </p>
