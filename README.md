@@ -66,8 +66,13 @@
 </p>
 
 
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=dark&hide_border=false)<br/>
+## 📊 GitHub Stats<h2 align="left">📊 GitHub Stats</h2>
+<div align="left">
+<br clear="all"/>
+
+<div align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=ocean&hide_border=true&background=0D1117" alt="streak stats" />
+</div>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
