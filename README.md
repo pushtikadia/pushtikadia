@@ -1,4 +1,5 @@
 <h1>Hey, I’m <span style="color:#4D96FF;">Pushti</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+
 - 💻 Tech Enthusiast Exploring Diverse Domains — Learning, Building, And Improving Every Day
   <br>
 
@@ -16,7 +17,7 @@
 
 
 ## 🌍 Social Connects
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pushti-kadia-2bb4a5348/" title="LinkedIn">
+<a href="https://linkedin.com/in/pushti-kadia-2bb4a5348/" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://stackoverflow.com/users/32018409/pushti-kadia" title="StackOverflow">
@@ -65,13 +66,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="45" title="Cisco Networking" />
 </p>
 
+<br/>
 
-## 📊 GitHub Stats</h2>
-<p>
-  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=ocean&hide_border=true&v=STAT_TIMESTAMP" />
-</p>>
+## 📊 GitHub Stats
+<p align="left">
+  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=ocean&hide_border=true&background=0D1117" />
+</p>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-
+## ✍️ Dev Quote
+<div align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
