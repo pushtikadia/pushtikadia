@@ -1,4 +1,4 @@
-# Hey, I'm Pushti 👋
+# Hey, I'm Pushti
 - 💻 Tech Enthusiast Exploring Diverse Domains — Learning, Building, And Improving Every Day
   <br>
 
@@ -65,19 +65,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="45" title="Cisco Networking" />
 </p>
 
-<br/>
 
-<h2 align="left">📊 GitHub Stats</h2>
-<div align="left">
-<br clear="all"/>
+## 📊 GitHub Stats
+![](https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=dark&hide_border=false)<br/>
 
-<div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
-</div>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br/>
 
-<h2 align="left">✍️ Dev Quote</h2>
-<div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
