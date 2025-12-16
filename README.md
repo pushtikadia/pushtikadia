@@ -68,7 +68,7 @@
 
 ## 📊 GitHub Stats</h2>
 <p>
-  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=Dharm3112&theme=ocean&hide_border=true&v=STAT_TIMESTAMP" />
+  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=ocean&hide_border=true&v=STAT_TIMESTAMP" />
 </p>>
 
 ## ✍️ Random Dev Quote
