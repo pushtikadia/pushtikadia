@@ -17,7 +17,7 @@
 
 
 ## 🌍 Social Connects
-<a href="https://linkedin.com/in/pushti-kadia-2bb4a5348/" title="LinkedIn">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pushti-kadia-2bb4a5348/" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://stackoverflow.com/users/32018409/pushti-kadia" title="StackOverflow">
@@ -68,12 +68,17 @@
 
 <br/>
 
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=dark&hide_border=false)<br/>
+<h2 align="left">📊 GitHub Stats</h2>
+<div align="left">
+<br clear="all"/>
+
+<div align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+</div>
 
 <br/>
 
-## ✍️ Dev Quote
+<h2 align="left">✍️ Dev Quote</h2>
 <div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
