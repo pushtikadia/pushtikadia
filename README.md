@@ -23,6 +23,9 @@
 <a href="https://stackoverflow.com/users/32018409/pushti-kadia" title="StackOverflow">
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
+<a href="https://x.com/pushti7905" title="X(Twitter)">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
 <a href="https://leetcode.com/u/pushtikadia/" title="LeetCode">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
 </a>
