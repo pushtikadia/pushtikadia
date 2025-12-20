@@ -1,96 +1,92 @@
-<h1>Hey, I’m <span style="color:#4D96FF;">Pushti</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pushtikadia/pushtikadia/main/github-header-banner.png" width="100%" alt="Pushti Kadia Banner" />
 
-- 💻 Tech Enthusiast Exploring Diverse Domains — Learning, Building, And Improving Every Day
-  <br>
-
-## 📬 About Me
-
-- 🎓 B.Tech Computer Science & Engineering Student
+  <br />
   
-- 💡 Continuously Exploring New Technologies And Building Meaningful Projects
-    
-- 🚀 Passionate About Expanding My Skills And Growing As A Developer
- 
-- 🐍 Currently Learning Python And Its Ecosystem — Pandas, NumPy, Matplotlib, Django
- 
-- 📬 Email : pushtikadia@gmail.com
-
-
-## 🌍 Social Connects
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pushti-kadia-2bb4a5348/" title="LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://stackoverflow.com/users/32018409/pushti-kadia" title="StackOverflow">
-  <img src="https://skillicons.dev/icons?i=stackoverflow" />
-</a>
-<a href="https://x.com/pushti7905" title="X(Twitter)">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-<a href="https://leetcode.com/u/pushtikadia/" title="LeetCode">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
-</a>
-<a href="https://www.hackerrank.com/profile/pushtikadia" target="_blank" title="HackerRank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="45" alt="HackerRank"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pushtikadia@gmail.com" title="Gmail">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-
-## 🧰 Skills & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c" title="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <h1>Hi there, I'm <span style="color:#38bdf8;">Pushti Kadia</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+  <h3>Creative Technologist & Computer Science Engineer</h3>
   
-  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=jquery" title="jQuery" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="48" title="Apache Server" />
-  
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
-  
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" title="Canva" />
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-  
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" title="Pandas" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" title="NumPy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" title="Matplotlib" />
-  
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" height="45" title="Cisco Networking" />
-</p>
-
-<br/>
-
-<h2 align="left">📊 GitHub Stats</h2>
-<div align="left">
-<br clear="all"/>
-
-<div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+  <p>
+    <a href="https://linkedin.com/in/pushti-kadia-2bb4a5348/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:pushtikadia@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/u/pushtikadia/">
+      <img src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/pushtikadia">
+      <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-<br/>
+---
 
-<h2 align="left">✍️ Dev Quote</h2>
-<div align="left">
+### 🚀 **About Me**
+
+Here is a glimpse into my technical journey and professional philosophy:
+
+* 🎓 **Academic Foundation:** Currently pursuing a **B.Tech in Computer Science & Engineering**, blending academic rigor in Algorithms and System Design with practical application in scalable software development.
+* 🔬 **Technical Focus:** Specializing in the **Python Ecosystem and Data Science** (Pandas, NumPy, Matplotlib), leveraging these tools to bridge the gap between raw data and actionable visual intelligence.
+* 🛠️ **Development Philosophy:** I believe in **high-fidelity engineering**—building applications that are not only functional but also performant, visually immersive, and user-centric.
+* 🤝 **Collaboration & Growth:** Actively seeking opportunities to contribute to **Open Source** projects and solve complex engineering challenges. I am open to internships and collaborations that push the boundaries of modern tech.
+
+---
+
+### 🛠️ **Technical Arsenal**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>💻 Languages</b></td>
+      <td align="center" width="25%"><b>🧠 Data & AI</b></td>
+      <td align="center" width="25%"><b>🌐 Web & DB</b></td>
+      <td align="center" width="25%"><b>⚙️ Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=anaconda,pandas,numpy,pytorch" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgres,mongodb" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,bootstrap,tailwind" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 **GitHub Analytics**
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=pushtikadia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8" alt="Pushti's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushtikadia&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&currStreakLabel=38bdf8" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
+<br />
 
-
-
-
-
+<div align="center">
+  <small><i>"The best way to predict the future is to invent it."</i></small>
+</div>
