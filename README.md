@@ -7,7 +7,7 @@
 
 - 🛠️ Currently Working On: My GitHub Profile & Personal Projects
   
-- 💡 Continuously Exploring New Technologies And Building Meaningful Projects
+- 🌱 Recent Project: Various Python & Web Dev Projects
     
 - 🚀 Passionate About Expanding My Skills And Growing As A Developer
  
