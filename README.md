@@ -9,7 +9,7 @@
   
 - 🌱 Recent Project: Various Python & Web Dev Projects
     
-- 🚀 Passionate About Expanding My Skills And Growing As A Developer
+- 📚 Currently Learning: Python Ecosystem (Pandas, NumPy, Matplotlib, Django)
  
 - 🐍 Currently Learning Python And Its Ecosystem — Pandas, NumPy, Matplotlib, Django
  
