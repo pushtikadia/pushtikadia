@@ -5,7 +5,7 @@
 
 ## 📬 About Me
 
-- 🎓 B.Tech Computer Science & Engineering Student
+- Currently Working On: My GitHub Profile & Personal Projects
   
 - 💡 Continuously Exploring New Technologies And Building Meaningful Projects
     
