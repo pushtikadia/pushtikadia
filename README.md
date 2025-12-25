@@ -7,7 +7,7 @@
 
 - 🛠️ Currently Working On : My GitHub Profile & Personal Projects
 - 🌱 Recent Project : Various Python & Web Dev Projects 
-- 📚 Currently Learning: Python Ecosystem (Pandas, NumPy, Matplotlib, Django)
+- 📚 Currently Learning : Python Ecosystem (Pandas, NumPy, Matplotlib, Django)
 - 📬 Email : pushtikadia@gmail.com
 
 
