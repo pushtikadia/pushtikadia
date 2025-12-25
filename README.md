@@ -6,7 +6,7 @@
 ## 📬 About Me
 
 - 🛠️ Currently Working On : My GitHub Profile & Personal Projects
-- ⚡ Recent Project : Various Python & Web Dev Projects 
+- ⚡ **Recent Projects :** [DevFolio-X](https://github.com/pushtikadia/DevFolio-X) 
 - 📚 Currently Learning : Python Ecosystem (Pandas, NumPy, Matplotlib, Django)
 - 📩 Email : pushtikadia@gmail.com
 
