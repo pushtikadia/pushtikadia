@@ -11,7 +11,6 @@
     
 - 📚 Currently Learning: Python Ecosystem (Pandas, NumPy, Matplotlib, Django)
  
- 
 - 📬 Email : pushtikadia@gmail.com
 
 
