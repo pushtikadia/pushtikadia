@@ -7,7 +7,7 @@
 
 - 🛠️ Currently Working On : My GitHub Profile & Personal Projects
 - ⚡ **Recent Projects :** [DevFolio-X](https://github.com/pushtikadia/DevFolio-X) Reactive Glassmorphism Streaming UI 
-- 📚 Currently Learning : Python Ecosystem (Pandas, NumPy, Matplotlib, Django)
+📚 **Currently Learning :** <img src="https://img.shields.io/badge/Python-Moderate-blue?logo=python" valign="middle" />
 - 📩 Email : pushtikadia@gmail.com
 
 
