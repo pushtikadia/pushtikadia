@@ -1,6 +1,6 @@
 <h1>Hey, I’m <span style="color:#4D96FF;">Pushti</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-- 🧠 I Think-Build-Create-Learn 🚀
+🤖 I Think-Build-Create-Learn 
   <br>
 
 ## 📬 About Me
