@@ -13,6 +13,7 @@
 
 
 ## 🌍 Social Connects
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pushti-kadia-2bb4a5348/" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
