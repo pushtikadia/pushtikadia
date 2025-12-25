@@ -5,7 +5,7 @@
 
 ## 📬 About Me
 
-- Currently Working On: My GitHub Profile & Personal Projects
+- 🛠️ Currently Working On: My GitHub Profile & Personal Projects
   
 - 💡 Continuously Exploring New Technologies And Building Meaningful Projects
     
