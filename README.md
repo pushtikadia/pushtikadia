@@ -70,12 +70,3 @@
 
 
 <br/>
-
-<h2 align="left">📊 GitHub Stats</h2>
-<div align="left">
-<br clear="all"/>
-
-<div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pushtikadia&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
-</div>
-
