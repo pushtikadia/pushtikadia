@@ -5,7 +5,7 @@
 
 ## 📬 About Me
 
-- 🛠️ **Currently Working On :** [IntelliCircle](https://github.com/pushtikadia/IntelliCircle.git) & Portfolio Website
+- 🛠️ **Currently Working On :** [DSA-Compass](https://github.com/pushtikadia/DSA-Compass) & Portfolio Website
 - ⚡ **Recent Projects :** [DevFolio-X](https://github.com/pushtikadia/DevFolio-X) Reactive Glassmorphism Streaming UI 
 - 📚 **Currently Learning :** <img src="https://img.shields.io/badge/DSA-Python-0D1741?" valign="middle" />
 - 📩 **Email :** pushtikadia@gmail.com
