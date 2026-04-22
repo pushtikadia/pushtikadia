@@ -1,8 +1,6 @@
-<h1 align="center">Hey, I'm Pushti 👋</h1>
+## Hey, I'm Pushti 👋
 
-<p align="center">
-💭 Think • Build • Create • Learn
-</p>
+- 💭 I Think-Build-Create-Learn
 
 ---
 
