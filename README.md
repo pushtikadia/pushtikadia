@@ -9,7 +9,7 @@
 - ⚡ **Recent Projects :** Devfolio-X Reactive Glassmorphism Streaming UI  
 - 📚 **Currently Learning :** 
   <img src="https://img.shields.io/badge/DSA-Python-0D1741?" valign="middle" />
-- 📩 My Email : pushtikadia@gmail.com
+- 📩 **My Email : pushtikadia@gmail.com
 
 
 ## 🌍 Socials
