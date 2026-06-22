@@ -7,8 +7,7 @@
 
 - 🛠️ **Currently Working On :** Github useful stuff & Portfolio Website  
 - ⚡ **Recent Projects :** Devfolio-X Reactive Glassmorphism Streaming UI  
-- 📚 **Currently Learning :** 
-  <img src="https://img.shields.io/badge/DSA-Python-0D1741?" valign="middle" />
+- 📚 **Currently :** Contributing in Open Source in GSSoC'26
 - 📩 **My Email :** pushtikadia@gmail.com
 
 
