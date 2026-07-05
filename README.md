@@ -7,7 +7,7 @@
 
 - 🛠️ **Currently Working On :** Github Useful Stuff & Portfolio Website.
 - ⚡ **Recent Projects :** [DevFolio-X](https://github.com/pushtikadia/DevFolio-X.git)  Reactive Glassmorphism Streaming UI  
-- 📚 **Currently :** Contributing in Open Source in GSSoC'26
+- 📚 **Currently :** Contributing in Open Source in GSSoC'26 
 - 📩 **My Email :** pushtikadia@gmail.com
 
 
