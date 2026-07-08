@@ -15,7 +15,7 @@
 <p>
 <a href="https://www.linkedin.com/in/pushtikadia" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="[<a href="https://stackoverflow.com/users/32018409/pushti-kadia" title="StackOverflow">
+<a href="https://stackoverflow.com/users/32018409/pushti-kadia" title="StackOverflow">
   <img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 <a href="https://x.com/pushti7905" title="X(Twitter)">
   <img src="https://skillicons.dev/icons?i=twitter" /></a>
