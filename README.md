@@ -15,7 +15,8 @@
 <p>
 <a href="https://www.linkedin.com/in/pushtikadia" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="your-stackoverflow-https://stackoverflow.com/users/32018409/pushti-kadia"><img src="https://cdn.simpleicons.org/stackoverflow/F48024" width="40" height="40" alt="Stack Overflow" /></a>
+<a href="[<a href="https://stackoverflow.com/users/32018409/pushti-kadia" title="StackOverflow">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 <a href="https://x.com/pushti7905" title="X(Twitter)">
   <img src="https://skillicons.dev/icons?i=twitter" /></a>
  <a href="https://leetcode.com/u/pushtikadia/" title="LeetCode">
