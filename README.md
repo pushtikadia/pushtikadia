@@ -12,7 +12,6 @@
 
 
 ## 🌍 Socials
-
 <a href="https://www.linkedin.com/in/pushtikadia" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
