@@ -14,17 +14,24 @@
 ## 🌍 Socials
 
 <a href="https://www.linkedin.com/in/pushtikadia" title="LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 <a href="[https://stackoverflow.com/users/32018409/pushti-kadia]" title="StackOverflow">
-  <img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <img src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
 <a href="https://x.com/pushti7905" title="X(Twitter)">
-  <img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
 <a href="https://leetcode.com/u/pushtikadia/" title="LeetCode">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45" title="LeetCode"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45" title="LeetCode"/>
+</a>
 <a href="https://www.hackerrank.com/profile/pushtikadia" target="_blank" title="HackerRank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="45" alt="HackerRank"/></a>
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="45" alt="HackerRank"/>
+</a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pushtikadia@gmail.com" title="Gmail">
-  <img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 
 ## 💻 Skills & Technologies
 
