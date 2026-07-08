@@ -18,10 +18,12 @@
   <a href="your-stackoverflow-https://stackoverflow.com/users/32018409/pushti-kadiak"><img src="https://cdn.simpleicons.org/stackoverflow/F48024" width="40" height="40" alt="Stack Overflow" /></a>
 <a href="https://x.com/pushti7905" title="X(Twitter)">
   <img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="your-leetcode-https://leetcode.com/u/pushtikadia/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" alt="LeetCode" /></a>
-  <a href="your-hackerrank-https://www.hackerrank.com/profile/pushtikadia"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="40" height="40" alt="HackerRank" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pushtikadia@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail" /></a>
-</p>
+ <a href="https://leetcode.com/u/pushtikadia/" title="LeetCode">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45" title="LeetCode"/></a>
+<a href="https://www.hackerrank.com/profile/pushtikadia" target="_blank" title="HackerRank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="45" alt="HackerRank"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pushtikadia@gmail.com" title="Gmail">
+  <img src="https://skillicons.dev/icons?i=gmail"/></a>
 
 
 ## 💻 Skills & Technologies
